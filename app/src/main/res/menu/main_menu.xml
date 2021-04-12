@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_get_data"
+        android:icon="@drawable/ic_baseline_text_snippet_24"
+        android:title="전체 조회" />
+    <item
+        android:id="@+id/menu_get_one_data"
+        android:icon="@drawable/ic_baseline_text_snippet_24"
+        android:title="방별 조회" />
+    <item
+        android:id="@+id/menu_change_pwd"
+        android:icon="@drawable/ic_baseline_accessibility_24"
+        android:title="계정 설정" />
+    <item
+        android:id="@+id/menu_insert_data"
+        android:icon="@drawable/ic_baseline_post_add_24"
+        android:title="데이터 입력하기" />
+</menu>
